@@ -1,0 +1,11 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+<h1>Status</h1>
+<h2>Statuses ({{ statuses | length }})</h2>
+<ul>
+{% for status in statuses %}
+    <li>{{ status }}</li>
+{% endfor %}
+</ul>
+{%  endblock %}
