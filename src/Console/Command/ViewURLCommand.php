@@ -2,6 +2,7 @@
 
 namespace App\Console\Command;
 
+use App\Service\PlanningAlertService;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
@@ -9,20 +10,39 @@ use Symfony\Component\Console\Output\OutputInterface;
 
 class ViewURLCommand extends Command {
 
+  private $alertService;
+
+  public function __construct(PlanningAlertService $alertService) {
+    $this->alertService = $alertService;
+
+    parent::__construct();
+  }
+
   protected function configure() {
     $this->setName('planning-alerts:view')
-      ->setDescription('View the status of a Planning Alert endpoint')
+      ->setDescription('View the status of a Planning Alert authority')
       ->addArgument(
-        'url',
+        'authority',
         InputArgument::REQUIRED,
-        'What URL are we parsing?'
+        'What authority are we parsing?'
       );
   }
 
   protected function execute(InputInterface $input, OutputInterface $output) {
-    $url = $input->getArgument('url');
+    $authority = $input->getArgument('authority');
 
-    $output->writeln($url);
+    try {
+      $result = $this->alertService->parseAuthority($authority);
+
+      foreach ($result as $key => $value) {
+        $output->writeln(sprintf('%s => %s', $key, $value));
+      }
+
+      return Command::SUCCESS;
+    }
+    catch (Exception $e) {
+      return Command::FAILURE;
+    }
   }
 
 }
