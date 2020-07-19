@@ -5,6 +5,7 @@
 # https://symfony.com/doc/current/best_practices/configuration.html#application-related-configuration
 parameters:
     app.planning_alerts_base_url: 'https://api.planningalerts.org.au'
+    app.planning_alerts_config_file: '%kernel.project_dir%/config/planning-alerts.yaml'
 
 services:
     # default configuration for services in *this* file
@@ -28,5 +29,6 @@ services:
     # please note that last definitions always *replace* previous ones
     App\Service\PlanningAlertService:
         arguments:
+            $configFile: '%app.planning_alerts_config_file%'
             $baseUrl: '%app.planning_alerts_base_url%'
             $key: '%env(resolve:PLANNING_ALERTS_KEY)%'

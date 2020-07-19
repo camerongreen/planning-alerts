@@ -1,0 +1,1503 @@
+[
+    {
+        "application": {
+            "address": "276 Carlton Street, Kawana QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/101-2019",
+            "date_received": "2019-11-01",
+            "date_scraped": "2019-11-09T01:23:30.000Z",
+            "description": "2.4m high steel boundary fence",
+            "id": 1479372,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3305792,
+            "lng": 150.5164209,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "4 Featherstone Street, Parkhurst QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/102-2019",
+            "date_received": "2019-11-06",
+            "date_scraped": "2019-11-13T01:20:57.000Z",
+            "description": "High Impact Industry and ERA 62",
+            "id": 1480798,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3094509,
+            "lng": 150.5148889,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "278-280 Bolsover Street, Rockhampton City QLD 4700",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/103-2019",
+            "date_received": "2019-11-07",
+            "date_scraped": "2019-11-22T01:22:28.000Z",
+            "description": "Function Facility and Operational Works associated with an Advertising Device (Pylon Sign)",
+            "id": 1486344,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3828783,
+            "lng": 150.514749,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "45 Reaney Street, The Common QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/104-2019",
+            "date_received": "2019-11-14",
+            "date_scraped": "2019-11-29T01:23:17.000Z",
+            "description": "Rockhampton Cricket Grounds Lighting",
+            "id": 1489995,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3759282,
+            "lng": 150.5198297,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "15 Jellicoe Street, Port Curtis QLD 4700",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/105-2019",
+            "date_received": "2019-11-14",
+            "date_scraped": "2019-11-16T01:22:33.000Z",
+            "description": "Place of Worship (Samadhi Buddhist Temple)",
+            "id": 1483231,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.4093462,
+            "lng": 150.5030628,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "225 Fernvale Road, Mount Morgan QLD 4714",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/108-2019",
+            "date_received": "2019-11-27",
+            "date_scraped": "2019-12-08T01:16:59.000Z",
+            "description": "(one lot into two lots)",
+            "id": 1494883,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -24.5683696,
+            "lng": 149.9755087,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "19 Reaney Street, Berserker QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/113-2019",
+            "date_received": "2019-12-06",
+            "date_scraped": "2019-12-12T01:27:51.000Z",
+            "description": "Educational Establishment",
+            "id": 1500302,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3726882,
+            "lng": 150.5164466,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "93 Hollingsworth Street, Kawana QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/114-2019",
+            "date_received": "2019-12-12",
+            "date_scraped": "2019-12-13T01:25:59.000Z",
+            "description": "Dwelling House (Building Envelope)",
+            "id": 1501367,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3434875,
+            "lng": 150.5048869,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "2401 Stanwell - Waroula Road, Dalma QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/115-2019",
+            "date_received": "2019-12-12",
+            "date_scraped": "2019-12-14T01:35:06.000Z",
+            "description": "Dwelling house (secondary dwelling)",
+            "id": 1502250,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3243656,
+            "lng": 150.2616981,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "157 Foster Street, Gracemere QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/116-2019",
+            "date_received": "2019-12-12",
+            "date_scraped": "2019-12-14T01:35:06.000Z",
+            "description": "Service Station",
+            "id": 1502251,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.4457198,
+            "lng": 150.4407258,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "11 Emu Park Road, Lakes Creek QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/117-2019",
+            "date_received": "2019-12-16",
+            "date_scraped": "2019-12-19T01:28:15.000Z",
+            "description": "Marine Workshop",
+            "id": 1505433,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.389563,
+            "lng": 150.5668507,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "1 Meter Street, The Range QLD 4700",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/12-2020",
+            "date_received": "2020-02-04",
+            "date_scraped": "2020-02-19T01:25:01.000Z",
+            "description": "Food and Drink Outlet",
+            "id": 1548290,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3859958,
+            "lng": 150.4924975,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "154 Witt Street, Berserker QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/124-2019",
+            "date_received": "2019-12-19",
+            "date_scraped": "2019-12-20T01:24:18.000Z",
+            "description": "(two lots into two lots)",
+            "id": 1506342,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.370814,
+            "lng": 150.5321732,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "441 Rockonia Road, Lakes Creek QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/125-2019",
+            "date_received": "2019-12-23",
+            "date_scraped": "2020-01-19T01:13:48.000Z",
+            "description": "(one lot into two lots) and Common Property",
+            "id": 1519923,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.367504,
+            "lng": 150.5617776,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "L 1 Thirsty Creek Road, Gogango QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/126-2019",
+            "date_received": "2019-12-24",
+            "date_scraped": "2019-12-25T01:22:28.000Z",
+            "description": "Extractive Industry",
+            "id": 1509856,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": null,
+            "lng": null,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "L 3 Six Mile Road, Pink Lily QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/127-2019",
+            "date_received": "2019-12-24",
+            "date_scraped": "2020-01-08T01:18:53.000Z",
+            "description": "Shed and Shipping Container and Operational Works for Earthworks",
+            "id": 1513264,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": null,
+            "lng": null,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "35 Hardacre Street, Wandal QLD 4700",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/14-2020",
+            "date_received": "2020-02-05",
+            "date_scraped": "2020-02-19T01:25:01.000Z",
+            "description": "(two lots into two lots)",
+            "id": 1548291,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3711294,
+            "lng": 150.498847,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "Lot 253 Edenbrook Drive, Parkhurst QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/15-2020",
+            "date_received": "2020-02-05",
+            "date_scraped": "2020-02-06T01:33:55.000Z",
+            "description": "(one lot into twenty-five lots) Edenbrook Estate (Stages 10A to 10E)",
+            "id": 1536623,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3025103,
+            "lng": 150.4870295,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "Lot 253 Edenbrook Drive, Parkhurst QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/16-2020",
+            "date_received": "2020-02-05",
+            "date_scraped": "2020-02-06T01:33:55.000Z",
+            "description": "(one lot into seventeen lots)",
+            "id": 1536624,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3025103,
+            "lng": 150.4870295,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "75 Reaney Street, The Common QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/17-2020",
+            "date_received": "2020-02-11",
+            "date_scraped": "2020-02-19T01:25:01.000Z",
+            "description": "Outdoor Sport and Recreation",
+            "id": 1548292,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3788114,
+            "lng": 150.525585,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "215 Quay Street, Rockhampton City QLD 4700",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/2-2020",
+            "date_received": "2020-01-08",
+            "date_scraped": "2020-01-15T01:18:34.000Z",
+            "description": "Amenities and Ramps",
+            "id": 1517280,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3797861,
+            "lng": 150.5163068,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "530 Yaamba Road, Norman Gardens QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/21-2020",
+            "date_received": "2020-02-21",
+            "date_scraped": "2020-02-27T01:21:16.000Z",
+            "description": "500sqm Extension to Showroom",
+            "id": 1556226,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3320884,
+            "lng": 150.5190507,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "98 Elphinstone Street, Berserker QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/23-2020",
+            "date_received": "2020-02-25",
+            "date_scraped": "2020-03-04T01:16:22.000Z",
+            "description": "Warehouse (Extension)",
+            "id": 1561683,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.363753,
+            "lng": 150.527419,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "13 Cavell Street, Wandal QLD 4700",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/24-2020",
+            "date_received": "2020-02-25",
+            "date_scraped": "2020-03-10T01:12:16.000Z",
+            "description": "Community Care Centre",
+            "id": 1567378,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3677657,
+            "lng": 150.4958682,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "1018-1038 Yaamba Road, Parkhurst QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/25-2020",
+            "date_received": "2020-02-26",
+            "date_scraped": "2020-03-05T01:18:02.000Z",
+            "description": "Reconfiguring a Lot (one lot into two lots), Service Station and Operational Works for an advertising device",
+            "id": 1562717,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.2852653,
+            "lng": 150.5125336,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "198 Yeppoon Road, Norman Gardens QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/26-2020",
+            "date_received": "2020-03-02",
+            "date_scraped": "2020-03-10T01:12:16.000Z",
+            "description": "(two lots into two lots)",
+            "id": 1567379,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3043756,
+            "lng": 150.5360951,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "171 Alexandra Street, Kawana QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/29-2020",
+            "date_received": "2020-03-11",
+            "date_scraped": "2020-03-14T01:16:56.000Z",
+            "description": "Low Impact Industry",
+            "id": 1572165,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3429594,
+            "lng": 150.5070138,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "11 Gilmore Court, Gracemere QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/30-2020",
+            "date_received": "2020-03-11",
+            "date_scraped": "2020-03-13T01:13:55.000Z",
+            "description": "LODGED IN ERROR - Proposed 6M X 6M X 2.7m Shed",
+            "id": 1570999,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.4453869,
+            "lng": 150.4562197,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "1486 Thirsty Creek Road, Gogango QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/32-2020",
+            "date_received": "2020-03-24",
+            "date_scraped": "2020-04-03T01:30:08.000Z",
+            "description": "Non-Resident Workforce Accommodation (250 persons)",
+            "id": 1589497,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.5759139,
+            "lng": 150.0263473,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "L 3 Hume Road, Kabra QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/34-2020",
+            "date_received": "2020-03-26",
+            "date_scraped": "2020-04-08T02:15:08.000Z",
+            "description": "(three lots into three lots)",
+            "id": 1592958,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": null,
+            "lng": null,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "259 Denison Street, Rockhampton City QLD 4700",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/38-2020",
+            "date_received": "2020-04-06",
+            "date_scraped": "2020-04-22T02:14:29.000Z",
+            "description": "Community Care Centre",
+            "id": 1603470,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3862585,
+            "lng": 150.5150394,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "L 1 Moores Creek Road, Park Avenue QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/4-2020",
+            "date_received": "2020-01-08",
+            "date_scraped": "2020-01-18T01:20:48.000Z",
+            "description": "Viewing Platform",
+            "id": 1519678,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3627549,
+            "lng": 150.5160592,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "141 Rundle Street, Wandal QLD 4700",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/40-2020",
+            "date_received": "2020-04-08",
+            "date_scraped": "2020-04-23T02:18:15.000Z",
+            "description": "(two lots into two lots)",
+            "id": 1604712,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3716683,
+            "lng": 150.488712,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "L 1 Fisher Street, Gracemere QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/44-2020",
+            "date_received": "2020-04-22",
+            "date_scraped": "2020-05-07T02:19:02.000Z",
+            "description": "Cemetery (expansion) and Ground Sign",
+            "id": 1616789,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": null,
+            "lng": null,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "162 Middle Road, Gracemere QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/45-2020",
+            "date_received": "2020-04-22",
+            "date_scraped": "2020-04-23T02:18:15.000Z",
+            "description": "Transport Depot",
+            "id": 1604713,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.4535869,
+            "lng": 150.4366119,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "63 High Street, Berserker QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/46-2020",
+            "date_received": "2020-04-24",
+            "date_scraped": "2020-05-06T02:15:55.000Z",
+            "description": "Extension to existing paint shop",
+            "id": 1615493,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3581517,
+            "lng": 150.5246259,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "288-290 Alexandra Street, Kawana QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/47-2020",
+            "date_received": "2020-04-30",
+            "date_scraped": "2020-05-13T02:20:25.000Z",
+            "description": "Warehouse (Self-Storage Facility)",
+            "id": 1622028,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3330616,
+            "lng": 150.5017603,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "226 Victoria Street, Gracemere QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/49-2020",
+            "date_received": "2020-05-12",
+            "date_scraped": "2020-05-13T02:20:25.000Z",
+            "description": "Shed",
+            "id": 1622029,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.4294106,
+            "lng": 150.4700278,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "123 Von Allmen Road, Pink Lily QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/50-2020",
+            "date_received": "2020-05-26",
+            "date_scraped": "2020-06-05T02:21:11.000Z",
+            "description": "Building Envelope for a Dwelling House and Shed",
+            "id": 1643635,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3433308,
+            "lng": 150.4845322,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "777 Yaamba Road, Parkhurst QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/52-2019",
+            "date_received": "2019-07-01",
+            "date_scraped": "2019-07-22T01:56:57.000Z",
+            "description": "(two lots into eight lots)",
+            "id": 1322077,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3051944,
+            "lng": 150.5119012,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "62 Geoff Wilson Drive, Norman Gardens QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/53-2019",
+            "date_received": "2019-07-05",
+            "date_scraped": "2019-07-22T01:56:57.000Z",
+            "description": "(three lots into six lots)",
+            "id": 1322078,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3101844,
+            "lng": 150.5262645,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "18 Wattle Street, Park Avenue QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/53-2020",
+            "date_received": "2020-06-02",
+            "date_scraped": "2020-06-11T02:21:17.000Z",
+            "description": "Ancillary Switchroom for existing Sewerage Pump Station",
+            "id": 1648286,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3593085,
+            "lng": 150.5030176,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "82-88 Wandal Road, Wandal QLD 4700",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/54-2020",
+            "date_received": "2020-06-02",
+            "date_scraped": "2020-06-11T02:21:17.000Z",
+            "description": "Ancillary Switchroom for existing Sewerage Pump Station",
+            "id": 1648287,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3658802,
+            "lng": 150.4917399,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "319 Cunningham Road, Nine Mile QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/57-2019",
+            "date_received": "2019-07-15",
+            "date_scraped": "2019-07-31T02:37:22.000Z",
+            "description": "(two lots into two lots) and an Access Easement",
+            "id": 1347018,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.4254015,
+            "lng": 150.3296421,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "12 Carroll Lane, Bouldercombe QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/58-2019",
+            "date_received": "2019-07-16",
+            "date_scraped": "2019-07-31T02:37:22.000Z",
+            "description": "(one lot into two lots)",
+            "id": 1347019,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.5685077,
+            "lng": 150.465912,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "Lot 164 Toonda Road, Marmor QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/60-2019",
+            "date_received": "2019-07-22",
+            "date_scraped": "2019-07-31T02:37:22.000Z",
+            "description": "Dwelling House",
+            "id": 1347020,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.6796342,
+            "lng": 150.7179333,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "10A Mason Avenue, Parkhurst QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/61-2019",
+            "date_received": "2019-07-23",
+            "date_scraped": "2019-08-07T02:31:07.000Z",
+            "description": "(two lots into two lots)",
+            "id": 1363711,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.2961698,
+            "lng": 150.5139159,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "L 340 Nicholson Road, Alton Downs QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/62-2019",
+            "date_received": "2019-07-23",
+            "date_scraped": "2019-07-24T02:26:40.000Z",
+            "description": "(one lot into two lots)",
+            "id": 1329959,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": null,
+            "lng": null,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "43 Jessie Street, The Range QLD 4700",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/63-2019",
+            "date_received": "2019-07-23",
+            "date_scraped": "2019-07-25T02:31:11.000Z",
+            "description": "(two lots into two lots)",
+            "id": 1332499,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3992758,
+            "lng": 150.4970012,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "8-16 Nuttall Street, Parkhurst QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/64-2019",
+            "date_received": "2019-07-24",
+            "date_scraped": "2019-08-08T02:33:33.000Z",
+            "description": "Community Use - Hindu Cultural Centre",
+            "id": 1366686,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3222565,
+            "lng": 150.5075269,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "1174 Upper Ulam Road, Bajool QLD 4699",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/64-2020",
+            "date_received": "2020-06-26",
+            "date_scraped": "2020-07-08T02:18:51.000Z",
+            "description": "(two lots into two lots)",
+            "id": 1673248,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.6399082,
+            "lng": 150.5251038,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "608 Montgomerie Street, Lakes Creek QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/65-2019",
+            "date_received": "2019-07-29",
+            "date_scraped": "2019-07-29T02:16:41.000Z",
+            "description": "Dwelling House",
+            "id": 1341629,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3837509,
+            "lng": 150.5677719,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "338-380 Bolsover Street, Depot Hill QLD 4700",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/66-2019",
+            "date_received": "2019-07-30",
+            "date_scraped": "2019-08-06T02:21:55.000Z",
+            "description": "Preliminary Approval varying the effect of the Planning Scheme for a Material Change of Use for Low, Medium and High Impact Industry zones",
+            "id": 1360929,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3901294,
+            "lng": 150.5140652,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "107 Talford Street, Allenstown QLD 4700",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/67-2019",
+            "date_received": "2019-07-31",
+            "date_scraped": "2019-08-19T02:18:34.000Z",
+            "description": "Multiple dwelling (4 units) and (five lots into four lots)",
+            "id": 1392998,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3827124,
+            "lng": 150.5013066,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "14 Stoneybrook Court, Frenchville QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/68-2019",
+            "date_received": "2019-08-01",
+            "date_scraped": "2019-08-02T02:35:14.000Z",
+            "description": "Dwelling House",
+            "id": 1352373,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3405489,
+            "lng": 150.5514981,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "162 Middle Road, Gracemere QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/69-2020",
+            "date_received": "2020-07-05",
+            "date_scraped": "2020-07-06T02:06:22.000Z",
+            "description": "Special Industry (manufacturing liquid fertiliser (urea-ammonium nitrate) and Environmentally Relevant Activity 7 \u2013 Chemical Manufacturing",
+            "id": 1671252,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.4535869,
+            "lng": 150.4366119,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "158 Farm Street, Kawana QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/7-2020",
+            "date_received": "2020-01-13",
+            "date_scraped": "2020-01-17T01:23:50.000Z",
+            "description": "(three lots into three lots)",
+            "id": 1518903,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3414208,
+            "lng": 150.5072646,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "288 Rockonia Road, Koongal QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/70-2019",
+            "date_received": "2019-08-07",
+            "date_scraped": "2019-08-15T02:26:46.000Z",
+            "description": "(three lots into two lots)",
+            "id": 1383798,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3679139,
+            "lng": 150.5466071,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "1014-1016 Yaamba Road, Parkhurst QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/71-2019",
+            "date_received": "2019-08-12",
+            "date_scraped": "2019-08-13T02:24:25.000Z",
+            "description": "(two lots into two lots)",
+            "id": 1378215,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.2867251,
+            "lng": 150.5129919,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "22 Edwards Road, Pink Lily QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/76-2019",
+            "date_received": "2019-08-22",
+            "date_scraped": "2019-08-28T02:34:00.000Z",
+            "description": "(three lots into two lots)",
+            "id": 1415383,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3775604,
+            "lng": 150.4592534,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "162 Twelve Mile Road, Marmor QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/77-2019",
+            "date_received": "2019-08-22",
+            "date_scraped": "2019-08-23T02:36:48.000Z",
+            "description": "(two lots into two lots)",
+            "id": 1403702,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.6864684,
+            "lng": 150.7510387,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "56 Emmert Lane, Ridgelands QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/78-2019",
+            "date_received": "2019-08-26",
+            "date_scraped": "2019-08-27T02:21:03.000Z",
+            "description": "High Impact Industry (Poultry Abattoir)",
+            "id": 1412284,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.2704148,
+            "lng": 150.3112104,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "15 Thozet Road, Koongal QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/8-2020",
+            "date_received": "2020-01-15",
+            "date_scraped": "2020-01-16T01:19:18.000Z",
+            "description": "(four lots into four lots)",
+            "id": 1517981,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.372588,
+            "lng": 150.5429059,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "83 Thorn Street, Berserker QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/80-2019",
+            "date_received": "2019-08-27",
+            "date_scraped": "2019-08-28T02:34:00.000Z",
+            "description": "(three lots into three lots)",
+            "id": 1415384,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3542665,
+            "lng": 150.527367,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "Lot 742 Cherryfield Road, Gracemere QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/81-2019",
+            "date_received": "2019-08-27",
+            "date_scraped": "2019-08-28T02:34:00.000Z",
+            "description": "(two lots into two lots)",
+            "id": 1415385,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.4839061,
+            "lng": 150.4527414,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "140 William Street, Rockhampton City QLD 4700",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/82-2019",
+            "date_received": "2019-08-28",
+            "date_scraped": "2019-08-30T02:27:53.000Z",
+            "description": "Health Care Services",
+            "id": 1420230,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3830563,
+            "lng": 150.5092152,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "59793 Bruce Highway, Midgee QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/83-2019",
+            "date_received": "2019-08-29",
+            "date_scraped": "2019-09-06T02:25:48.000Z",
+            "description": "High Impact Industry and Environmentally Relevant Activity",
+            "id": 1434853,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.4900155,
+            "lng": 150.5336151,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "155 Maloney Street, Kawana QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/84-2019",
+            "date_received": "2019-09-03",
+            "date_scraped": "2019-09-18T02:27:01.000Z",
+            "description": "Low Impact Industry (Machinery and Motor Vehicle Workshop)",
+            "id": 1443426,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3374985,
+            "lng": 150.5045894,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "18 Prospect Street, Allenstown QLD 4700",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/87-2019",
+            "date_received": "2019-09-17",
+            "date_scraped": "2019-09-26T02:21:20.000Z",
+            "description": "Office",
+            "id": 1449565,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3972582,
+            "lng": 150.5043884,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "48 Glencoe Street, The Range QLD 4700",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/89-2019",
+            "date_received": "2019-09-25",
+            "date_scraped": "2019-10-04T02:45:49.000Z",
+            "description": "Alterations to a Dwelling House",
+            "id": 1454094,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3909902,
+            "lng": 150.4979076,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "225 Fernvale Road, Mount Morgan QLD 4714",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/9-2020",
+            "date_received": "2020-01-29",
+            "date_scraped": "2020-01-30T01:22:54.000Z",
+            "description": "Shooting Range - Outdoor Sport and Recreation",
+            "id": 1530376,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": null,
+            "lng": null,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "339-380 Bolsover Street, Depot Hill QLD 4700",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/90-2019",
+            "date_received": "2019-09-30",
+            "date_scraped": "2019-10-04T02:45:49.000Z",
+            "description": "Transport Depot",
+            "id": 1454095,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3873192,
+            "lng": 150.518756,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "9 McLaughlin Street, Kawana QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/91-2019",
+            "date_received": "2019-10-03",
+            "date_scraped": "2019-10-04T02:45:49.000Z",
+            "description": "Medium Impact Industry",
+            "id": 1454096,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3371237,
+            "lng": 150.5126825,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "260 East Lane, Depot Hill QLD 4700",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/92-2019",
+            "date_received": "2019-10-09",
+            "date_scraped": "2019-10-30T01:24:26.000Z",
+            "description": "(two lots into two lot)",
+            "id": 1472734,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3868673,
+            "lng": 150.5186176,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "68 Denham Street, Rockhampton City QLD 4700",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/93-2019",
+            "date_received": "2019-10-10",
+            "date_scraped": "2019-10-16T01:32:55.000Z",
+            "description": "Shop and Office",
+            "id": 1463813,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3807222,
+            "lng": 150.509033,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "102 Tomkins Street, Berserker QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/94-2019",
+            "date_received": "2019-10-15",
+            "date_scraped": "2019-10-16T01:32:55.000Z",
+            "description": "(two lots into two lots)",
+            "id": 1463814,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3675743,
+            "lng": 150.5307391,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "33-53 Knight Street, Park Avenue QLD 4701",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/95-2019",
+            "date_received": "2019-10-17",
+            "date_scraped": "2019-10-31T01:26:22.000Z",
+            "description": "(three lots into thirteen lots)",
+            "id": 1473760,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.359697,
+            "lng": 150.5127176,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "109 Caroline Street, Allenstown QLD 4700",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/96-2019",
+            "date_received": "2019-10-16",
+            "date_scraped": "2019-10-30T01:24:26.000Z",
+            "description": "Child Care Centre (Extension)",
+            "id": 1472735,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.3910384,
+            "lng": 150.5019751,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    },
+    {
+        "application": {
+            "address": "1014-1016 Yaamba Road, Parkhurst QLD 4702",
+            "authority": {
+                "full_name": "Rockhampton Regional Council"
+            },
+            "comment_url": null,
+            "council_reference": "D/99-2019",
+            "date_received": "2019-10-23",
+            "date_scraped": "2019-11-02T01:24:52.000Z",
+            "description": "Short-Term Accommodation and Relocatable Home Park",
+            "id": 1475318,
+            "info_url": "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP",
+            "lat": -23.2867251,
+            "lng": 150.5129919,
+            "on_notice_from": null,
+            "on_notice_to": null
+        }
+    }
+]

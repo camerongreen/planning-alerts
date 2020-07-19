@@ -14,7 +14,6 @@ class ViewURLCommand extends Command {
 
   public function __construct(PlanningAlertService $alertService) {
     $this->alertService = $alertService;
-
     parent::__construct();
   }
 
@@ -32,10 +31,10 @@ class ViewURLCommand extends Command {
     $authority = $input->getArgument('authority');
 
     try {
-      $result = $this->alertService->parseAuthority($authority);
+      $results = $this->alertService->checkAuthority($authority);
 
-      foreach ($result as $key => $value) {
-        $output->writeln(sprintf('%s => %s', $key, $value));
+      foreach ($results as $result) {
+        $output->writeln(json_encode($result, TRUE));
       }
 
       return Command::SUCCESS;
