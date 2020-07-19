@@ -9,7 +9,23 @@ use Symfony\Component\HttpClient\Response\MockResponse;
 
 class PlanningAlertServiceTest extends TestCase {
 
-  public function testSearchFieldsFoundFile(): void {
+  public function testSearchFieldsFoundMockFile(): void {
+    $authority = 'rockhampton';
+
+    $data = file(__DIR__ . '/../test-data/output.json');
+
+    $response = new MockResponse($data, []);
+
+    $httpClient = new MockHttpClient([$response]);
+
+    $pas = new PlanningAlertService('./config/planning-alerts.yaml', 'http://test.test', 'test', $httpClient);
+
+    $result = $pas->checkAuthority($authority);
+
+    self::assertCount(1, $result);
+  }
+
+  public function testSearchFieldsFoundMockResponse(): void {
     $authority = 'rockhampton';
 
     $data = <<<EOT
