@@ -17,9 +17,9 @@ Run composer install of course.
 
 You will need to create a .env.local file with the following:
 
-``
-PLANNING_ALERTS_KEY=secretkey
-``
+.. code-block: ini
+
+  PLANNING_ALERTS_KEY=secretkey
 
 -------
 Running
@@ -32,6 +32,7 @@ Then pick and authority key. Get a list of valid authorities here https://www.pl
 Then from the basedir run
 
 .. code-block:: bash
+
   ./bin/console planning-alerts:view rockhampton
 
 ---------
@@ -44,5 +45,6 @@ PHPSTORM
 Add an alq.test server in PHP -> Servers
 
 .. code-block:: bash
+
   export PHP_IDE_CONFIG="serverName=alq.test"
   export XDEBUG_CONFIG="idekey=PHPSTORM remote_enable=1"
