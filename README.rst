@@ -15,7 +15,7 @@ Installation
 
 Run composer install of course.
 
-You will need to create a .env.local file with the following:
+You will need to create a .env.local file with the secret key you get after you sign up to the website:
 
 .. code-block:: ini
 
