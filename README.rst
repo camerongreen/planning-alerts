@@ -34,9 +34,10 @@ Then from the basedir run
 ``
 ./bin/console planning-alerts:view rockhampton
 ``
+
 ---------
 Debugging
-----------
+---------
 
 PHPSTORM
 ---------
