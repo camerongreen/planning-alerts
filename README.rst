@@ -31,9 +31,8 @@ Then pick and authority key. Get a list of valid authorities here https://www.pl
 
 Then from the basedir run
 
-``
-./bin/console planning-alerts:view rockhampton
-``
+.. code-block:: bash
+  ./bin/console planning-alerts:view rockhampton
 
 ---------
 Debugging
@@ -44,7 +43,6 @@ PHPSTORM
 
 Add an alq.test server in PHP -> Servers
 
-``
-export PHP_IDE_CONFIG="serverName=alq.test"
-export XDEBUG_CONFIG="idekey=PHPSTORM remote_enable=1"
-``
+.. code-block:: bash
+  export PHP_IDE_CONFIG="serverName=alq.test"
+  export XDEBUG_CONFIG="idekey=PHPSTORM remote_enable=1"
