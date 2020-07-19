@@ -27,13 +27,26 @@ Running
 
 Make sure you have run composer install and checked that you are happy with the keywords in config/planning-alerts.yaml
 
-Then pick and authority key. Get a list of valid authorities here https://www.planningalerts.org.au/authorities
+Then pick an authority key. Get a list of valid authorities here https://www.planningalerts.org.au/authorities
 
 Then from the basedir run
 
 .. code-block:: bash
 
   ./bin/console planning-alerts:view rockhampton
+
+-------
+Testing
+-------
+
+After composer install run:
+
+.. code-block:: sh
+
+  ./bin/phpunit
+
+**Gotchas**
+There is some stupid Symfony package bug which won't download the TestCase library without running ./bin/phpunit first
 
 ---------
 Debugging
@@ -48,3 +61,4 @@ Add an alq.test server in PHP -> Servers
 
   export PHP_IDE_CONFIG="serverName=alq.test"
   export XDEBUG_CONFIG="idekey=PHPSTORM remote_enable=1"
+
