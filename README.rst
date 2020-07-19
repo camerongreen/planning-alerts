@@ -17,7 +17,7 @@ Run composer install of course.
 
 You will need to create a .env.local file with the following:
 
-.. code-block: ini
+.. code-block:: ini
 
   PLANNING_ALERTS_KEY=secretkey
 
