@@ -27,8 +27,11 @@ services:
 
     # add more service definitions when explicit configuration is needed
     # please note that last definitions always *replace* previous ones
-    App\Service\PlanningAlertService:
+    App\Service\PlanningAlertParserService:
         arguments:
             $configFile: '%app.planning_alerts_config_file%'
+
+    App\Service\PlanningAlertRequestService:
+        arguments:
             $baseUrl: '%app.planning_alerts_base_url%'
             $key: '%env(resolve:PLANNING_ALERTS_KEY)%'

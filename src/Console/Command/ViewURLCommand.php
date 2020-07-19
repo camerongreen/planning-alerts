@@ -2,7 +2,8 @@
 
 namespace App\Console\Command;
 
-use App\Service\PlanningAlertService;
+use App\Service\PlanningAlertParserService;
+use App\Service\PlanningAlertRequestService;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
@@ -10,10 +11,12 @@ use Symfony\Component\Console\Output\OutputInterface;
 
 class ViewURLCommand extends Command {
 
-  private $alertService;
+  private $requestService;
+  private $parserService;
 
-  public function __construct(PlanningAlertService $alertService) {
-    $this->alertService = $alertService;
+  public function __construct(PlanningAlertRequestService $requestService, PlanningAlertParserService $parserService) {
+    $this->requestService = $requestService;
+    $this->parserService = $parserService;
     parent::__construct();
   }
 
@@ -31,10 +34,11 @@ class ViewURLCommand extends Command {
     $authority = $input->getArgument('authority');
 
     try {
-      $results = $this->alertService->checkAuthority($authority);
+      $authorityData = $this->requestService->getAuthorityData($authority);
+      $results = $this->parserService->checkAuthority($authorityData);
 
       foreach ($results as $result) {
-        $output->writeln(json_encode($result, TRUE));
+        $output->writeln(json_encode($result, JSON_PRETTY_PRINT));
       }
 
       return Command::SUCCESS;
