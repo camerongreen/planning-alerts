@@ -2,7 +2,6 @@
 
 namespace App\Service;
 
-use Symfony\Component\Yaml\Yaml;
 use Symfony\Contracts\HttpClient\HttpClientInterface;
 
 class PlanningAlertRequestService {

@@ -1,16 +1,27 @@
 fields:
   - description
 keywords:
-  - poultry
   - abbatoir
+  - animal
+  - bull
+  - canine
+  - cat
   - cattle
+  - chicken
+  - cow
+  - dog
+  - duck
+  - farm
+  - feline
+  - geese
+  - goat
+  - goose
+  - hen
+  - kitten
   - livestock
   - pig
-  - swine
-  - chicken
-  - hen
-  - dog
-  - cat
-  - puppy
+  - poultry
   - puppies
-  - farm
+  - puppy
+  - swine
+  - turkey
