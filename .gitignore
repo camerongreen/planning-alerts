@@ -17,3 +17,6 @@
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
 !phpunit.xml
+
+# scripts
+run.sh
